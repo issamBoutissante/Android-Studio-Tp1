@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AfficherMessage</string>
+    <string name="afficher">Afficher</string>
+    <string name="hint">Donnez une phrase</string>
+</resources>
